@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 Welcome to My GitHub Profile!
 
-<!--
-**Graylaser/Graylaser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently Learning
+I'm on a journey to master web development! Currently learning:
+- HTML (links, fonts, colors, images, lists)
+- CSS (styling, colors, layouts)
+- Building practical projects to strengthen my skills
 
-Here are some ideas to get you started:
+### 🚀 Mini Projects for Beginners
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Are you also learning HTML and CSS? Check out my curated list of **[HTML & CSS Mini Projects](./HTML_CSS_MINI_PROJECTS.md)** perfect for beginners!
+
+This guide includes:
+- ✅ 8 beginner-friendly projects
+- ✅ Step-by-step skill requirements
+- ✅ Learning outcomes for each project
+- ✅ Practical tips and resources
+- ✅ Projects organized by difficulty level
+
+### 📫 Let's Connect!
+Feel free to explore my repositories and reach out if you'd like to collaborate or chat about web development!
+
+---
+
+*"Every expert was once a beginner. Keep building, keep learning!"* 🚀
