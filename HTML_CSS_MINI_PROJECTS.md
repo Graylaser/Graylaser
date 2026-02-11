@@ -22,6 +22,8 @@ Welcome! If you've learned HTML basics (links, fonts, colors, images, lists) and
 
 **Estimated time:** 1-2 hours
 
+📁 **[View Example Code](./examples/personal-profile-card/)** - Start with this working example!
+
 ---
 
 ### 2. Simple Landing Page
